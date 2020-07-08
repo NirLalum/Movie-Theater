@@ -1,2 +1,31 @@
-314055344 shiramgilboa@campus.technion.ac.il shiram gilboa
-204450779 nirlalum@campus.technion.ac.il nir lalum
+a movie theater managment program which supports the following commands:
+
+createMat - creates a new matrix.
+
+setElement - insert new element to matrix.
+
+getElement - gets an element from matrix.
+
+createTheater - creates a new theater.
+
+resetTheater - restets a given thetaer
+
+getTicketPrice - prints the ticket price.
+
+createMovie - creates a new movie in the theater
+
+createDubbedMovie - creates a new dubbed movie in the theater
+
+addScreening1 - adds a new screening to a not dubbed movie
+
+addScreening2 - adds a new screening to a dubbed movie
+
+printMovies - prints all movies details to the screen
+
+createEmployee - creates a new employee
+
+createCashier - creates a new cashier
+
+PrintEmployees - prints to the screen the details of all employees
+
+sellTickets - sells tickets by certain rules
